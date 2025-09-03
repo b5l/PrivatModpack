@@ -36,6 +36,11 @@ hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "1486599d6e290cf30708c54ce2b8caa0447f072080625213951d50665167ec56"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "dab8b944607a6079920f52878c920e63d811eb777bf047b03bf9dfa1e596031c"
 metafile = true
