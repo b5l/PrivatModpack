@@ -21,6 +21,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "a10f7f1072508bbe2d8d9cd9ce980cabc46805568ae9f055a5f47622aead26a7"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
@@ -258,6 +263,16 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a9b241cbbff036293ceb73c9fac0f58c2b1d60cefb2aed0212fc936556a16df8"
+metafile = true
+
+[[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "9630ec247ab11b0b5aa97de51e1fe7110bd9dd357ef9c597d0a88408866aae81"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "982ddeeb761a8e001ed2b0487b916bb08d012666d369c7e6aeb0e5d950b6e99f"
 metafile = true
 
 [[files]]
