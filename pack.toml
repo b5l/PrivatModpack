@@ -1,0 +1,12 @@
+name = "Privat"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4e8c3a36ac2ea134c7aa19e45a859512190f1638363910504680c6d2781ba794"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.20.1"
