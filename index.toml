@@ -51,11 +51,6 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
-metafile = true
-
-[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "119642cc64a5790f42738939121ea5a08100eb0c3867d7f64ead1a4d0eb8a163"
 metafile = true
