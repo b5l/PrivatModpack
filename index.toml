@@ -221,6 +221,11 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "5736dea6480c9e68467139b935695423c9903ac617f5fe757b5f158007fed8cb"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
 metafile = true
