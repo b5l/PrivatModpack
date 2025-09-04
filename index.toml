@@ -251,6 +251,11 @@ hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
+file = "mods/superfancyclouds-refabricated.pw.toml"
+hash = "5a455bf23a6be6337df82987b6ae958fc89955c18d3d2bc2fb749c77d43beb23"
+metafile = true
+
+[[files]]
 file = "mods/villager-names.pw.toml"
 hash = "4e2cad1db3a4e619717e2ef734a190bc42d6e43ffba092c96d6cf02bb36a972b"
 metafile = true
