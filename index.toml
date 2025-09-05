@@ -36,6 +36,11 @@ hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
 
 [[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "20cc340fd7477aed53df00cd5a0f84c69c25a535cfa9e41f3900fd43e51a450b"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "1486599d6e290cf30708c54ce2b8caa0447f072080625213951d50665167ec56"
 metafile = true
