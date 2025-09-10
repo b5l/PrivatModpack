@@ -271,6 +271,11 @@ hash = "5a455bf23a6be6337df82987b6ae958fc89955c18d3d2bc2fb749c77d43beb23"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "3850ba97b0333e8a93577e2d6352659e63bdefa295c704b18431ae233b6040e8"
+metafile = true
+
+[[files]]
 file = "mods/villager-names.pw.toml"
 hash = "4e2cad1db3a4e619717e2ef734a190bc42d6e43ffba092c96d6cf02bb36a972b"
 metafile = true
