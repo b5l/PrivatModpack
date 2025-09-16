@@ -266,8 +266,8 @@ hash = "62d92c8e2a6c31419e3f56297fa24b77dd13515a6f10d44c78a7cbc83993c6b6"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-maps-x-waystones.pw.toml"
-hash = "b0d7d2a86feedd3c19e861c06665b48128d8e505f1081f183e3ceae1e134f755"
+file = "mods/xaeroplus.pw.toml"
+hash = "19c75d9bc9a1879b9412488ac0be450aed337fecee47c96e6c6f767440ede329"
 metafile = true
 
 [[files]]
