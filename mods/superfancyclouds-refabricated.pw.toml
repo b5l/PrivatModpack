@@ -1,13 +1,13 @@
 name = "SuperFancyClouds: Refabricated"
-filename = "sfcr-1.7.6-mc1.20.jar"
+filename = "sfcr-2.0.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Hoop89kN/versions/KiFYezDU/sfcr-1.7.6-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/Hoop89kN/versions/LVlpu9bx/sfcr-2.0.0-fabric.jar"
 hash-format = "sha512"
-hash = "380f124c9df277d8d41e33106be82ebf8e0a32f3d72741ca8a6ac2243427aa2e4d0b5d1028134403cdc16a20e2872da1f438d930d7fe7dfd7ce8f5a99571f37f"
+hash = "896e2d9b537f99fc210f42ccf2cbeab899113deecddf7ffd7697798ae62d3e7b36180578ed781ac6b8f30ad356b5357ef945e8420d1ec0c2d566e83d312794f6"
 
 [update]
 [update.modrinth]
 mod-id = "Hoop89kN"
-version = "KiFYezDU"
+version = "LVlpu9bx"

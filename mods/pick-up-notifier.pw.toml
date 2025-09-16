@@ -1,13 +1,13 @@
 name = "Pick Up Notifier"
-filename = "PickUpNotifier-v8.0.0-1.20.1-Fabric.jar"
+filename = "PickUpNotifier-v21.8.0-1.21.8-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZX66K16c/versions/sdb70E1E/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/ZX66K16c/versions/ZI5qvOFc/PickUpNotifier-v21.8.0-1.21.8-Fabric.jar"
 hash-format = "sha512"
-hash = "4303931f804697027186aa97595c03d7503aa0b00934a9133fd35f95ee119352a03c8b8c66515aaabbf1e2c1ac2b120a03800c80da57e03bc12b4e57b47f0807"
+hash = "ac8515ae910d6ef8a807281ee5cdffc511907dcd76c67abb8fe6cd1504354a3922d8279ea8b7a05f2f05a16d77dcfb314da099cc60e5e14b7bacc19550bb51a6"
 
 [update]
 [update.modrinth]
 mod-id = "ZX66K16c"
-version = "sdb70E1E"
+version = "ZI5qvOFc"

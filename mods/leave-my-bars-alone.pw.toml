@@ -1,13 +1,13 @@
 name = "Leave My Bars Alone"
-filename = "LeaveMyBarsAlone-v8.0.0-1.20.1-Fabric.jar"
+filename = "LeaveMyBarsAlone-v21.8.0-1.21.8-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gK9mebQg/versions/m1OeQHdG/LeaveMyBarsAlone-v8.0.0-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/gK9mebQg/versions/O3E0ZG8W/LeaveMyBarsAlone-v21.8.0-1.21.8-Fabric.jar"
 hash-format = "sha512"
-hash = "aa641996974dcb60c6d3ff73e253592f916253bf95029ea55983bb2f1f59b6d5d71f248017a43a8decb1f8c7009a94fcdee441ab59b0e02dea77abb1c1ce30b0"
+hash = "05f52677f24b0b0356bb2e3ab4b3ba0267fcd37f99dec11bec60647e1923f85a14047f96912e3f4a00033844ac6647fa2d8ee950ff7592014716aa305c755501"
 
 [update]
 [update.modrinth]
 mod-id = "gK9mebQg"
-version = "m1OeQHdG"
+version = "O3E0ZG8W"

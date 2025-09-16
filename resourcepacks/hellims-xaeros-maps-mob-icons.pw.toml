@@ -1,0 +1,13 @@
+name = "Hellim's Xaero's Maps Mob Icons"
+filename = "Hellim's Xaero's Maps Mob Icons v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g6UiPfKR/versions/CogxApbm/Hellim%27s%20Xaero%27s%20Maps%20Mob%20Icons%20v1.2.zip"
+hash-format = "sha512"
+hash = "4aec725c0e510d46ad77fe7994a186498323e10dc6275fe65e79f40b607cc6f78186049cbbd3c0302a3fc37b373a5ffc2b4a2fe3ac2759011079195e20a59299"
+
+[update]
+[update.modrinth]
+mod-id = "g6UiPfKR"
+version = "CogxApbm"
