@@ -1,0 +1,13 @@
+name = "Effectual"
+filename = "effectual-1.2.0-1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoF97Pto/versions/Ut8kVFgg/effectual-1.2.0-1.21.6.jar"
+hash-format = "sha512"
+hash = "4efbae3746038fc9e35bef1abf8b2f37fbfbb661754cff9063bf59d433dceb0575ef9396daabe2202e6a5d85bc1d9a457cdd32c6d1c06d3e8a659e10cbd00df3"
+
+[update]
+[update.modrinth]
+mod-id = "OoF97Pto"
+version = "Ut8kVFgg"

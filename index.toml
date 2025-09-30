@@ -61,6 +61,11 @@ hash = "ae08a9c482b986955b8b29158746d67adf6bb6d13c0d23d10ae032bac599c2d0"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "4dbb348db0e218954b6abfe7839e0e99615d29494c2b3909abac15813d6e9308"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "12804ce02e8891b9c55bf25bc4df8273b3dfcafa7a2c91b055b3836359e84e7c"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "937acae581d8c4340d141446a7adb5b3b1915130fd483bee067d45aade834a8a"
 metafile = true
 
 [[files]]
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/easyauth.pw.toml"
 hash = "4db593372108a3325fa648bbe9b45d8371d0ac3039c6dedbe76ecaa46743eff9"
+metafile = true
+
+[[files]]
+file = "mods/effectual.pw.toml"
+hash = "1da74f509d299804396a6e7ccfda48aee7c189ec569fb0554c6131a69081bdc5"
 metafile = true
 
 [[files]]
@@ -131,6 +146,11 @@ hash = "364288dc3923f02c34b1affd304cc28b6bcf2992678a80101c4d9ac95a0ea02f"
 metafile = true
 
 [[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "eb8693e241de64c76f19688f2d78bda4e51833a726a32f2dc5e4d8449d724cd6"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
@@ -151,6 +171,11 @@ hash = "e5506cea71f62e147a45e6c72a55a430fce5937024f648c819c15dc14b500462"
 metafile = true
 
 [[files]]
+file = "mods/leaf-me-alone.pw.toml"
+hash = "443ec5c37984c9f0076b2059543f2113a43d1f029aaa9a5e20c59dfa804b965d"
+metafile = true
+
+[[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "70f993815a2f25bf7d6f57e64209f51c508853e74bdc8fb4b7709e5c1887956e"
 metafile = true
@@ -168,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "1311c19c67d2558a55676975c91ba9badbbead684d5eeac96798676f1a484ec9"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
@@ -196,6 +226,16 @@ hash = "27bf21267ffb04d59ff52404aad040bd5cf95ca90701ede8f240ce033dafa927"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "0b83ddfad2f1201a1b506b5b1c482e81dde7d228bf66810e2536b2420159782d"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "e5b9b641d9760fc2d52a13c6f12f5ff8b7cb65439d25cc178d25a0c35b36ea8a"
 metafile = true
@@ -221,6 +261,11 @@ hash = "75d11a0b32a9fb7cd1235cc7ff3708e9acfe87fb0f07daca2764bb61723b78d8"
 metafile = true
 
 [[files]]
+file = "mods/smooth-gui.pw.toml"
+hash = "0b7531dae7df8e5845b3a3407630ef4d278a5d1c4ffeb57420fc717ae2aeb851"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "1e49559c88355148f1f8eabc43cd974b385a28b03205978869ce69a2eb7ed084"
 metafile = true
@@ -243,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "e0535b3fb60b675afff587766f0d33cae18a7f51104fdf8c82ad4ef5cd612803"
+metafile = true
+
+[[files]]
+file = "mods/tlib.pw.toml"
+hash = "005b0c31eb966a31ab1a92cea57c7c52d704ca9c1de54c747da4b70a4db0e095"
 metafile = true
 
 [[files]]
